@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PG3302.CardGame
 {
-    class CardStack
+    class CardDeck
     {
     }
 }
