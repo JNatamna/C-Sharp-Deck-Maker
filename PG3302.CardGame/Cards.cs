@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Cardgame
+namespace PG3302.CardGame
 {
     public class Card
     {

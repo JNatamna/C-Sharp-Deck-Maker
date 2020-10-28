@@ -1,0 +1,13 @@
+G:\School\Software Design\Eksamen_2020\EKSAMEN_2020_SoftwareDesign\PG3302.CardGame\bin\Debug\netcoreapp3.1\PG3302.CardGame.exe
+G:\School\Software Design\Eksamen_2020\EKSAMEN_2020_SoftwareDesign\PG3302.CardGame\bin\Debug\netcoreapp3.1\PG3302.CardGame.deps.json
+G:\School\Software Design\Eksamen_2020\EKSAMEN_2020_SoftwareDesign\PG3302.CardGame\bin\Debug\netcoreapp3.1\PG3302.CardGame.runtimeconfig.json
+G:\School\Software Design\Eksamen_2020\EKSAMEN_2020_SoftwareDesign\PG3302.CardGame\bin\Debug\netcoreapp3.1\PG3302.CardGame.runtimeconfig.dev.json
+G:\School\Software Design\Eksamen_2020\EKSAMEN_2020_SoftwareDesign\PG3302.CardGame\bin\Debug\netcoreapp3.1\PG3302.CardGame.dll
+G:\School\Software Design\Eksamen_2020\EKSAMEN_2020_SoftwareDesign\PG3302.CardGame\bin\Debug\netcoreapp3.1\PG3302.CardGame.pdb
+G:\School\Software Design\Eksamen_2020\EKSAMEN_2020_SoftwareDesign\PG3302.CardGame\obj\Debug\netcoreapp3.1\PG3302.CardGame.csprojAssemblyReference.cache
+G:\School\Software Design\Eksamen_2020\EKSAMEN_2020_SoftwareDesign\PG3302.CardGame\obj\Debug\netcoreapp3.1\PG3302.CardGame.AssemblyInfoInputs.cache
+G:\School\Software Design\Eksamen_2020\EKSAMEN_2020_SoftwareDesign\PG3302.CardGame\obj\Debug\netcoreapp3.1\PG3302.CardGame.AssemblyInfo.cs
+G:\School\Software Design\Eksamen_2020\EKSAMEN_2020_SoftwareDesign\PG3302.CardGame\obj\Debug\netcoreapp3.1\PG3302.CardGame.csproj.CoreCompileInputs.cache
+G:\School\Software Design\Eksamen_2020\EKSAMEN_2020_SoftwareDesign\PG3302.CardGame\obj\Debug\netcoreapp3.1\PG3302.CardGame.dll
+G:\School\Software Design\Eksamen_2020\EKSAMEN_2020_SoftwareDesign\PG3302.CardGame\obj\Debug\netcoreapp3.1\PG3302.CardGame.pdb
+G:\School\Software Design\Eksamen_2020\EKSAMEN_2020_SoftwareDesign\PG3302.CardGame\obj\Debug\netcoreapp3.1\PG3302.CardGame.genruntimeconfig.cache

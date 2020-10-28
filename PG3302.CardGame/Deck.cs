@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Cardgame
+namespace PG3302.CardGame
 {
     public class Deck
     {
@@ -17,10 +17,7 @@ namespace Cardgame
             Cards = new List<Card>();
         }
 
-        /// <summary>
         /// Creates the deck of cards, from Ace to King by suit.
-        /// </summary>
-        /// <returns>The initialized deck of cards</returns>
         public static Deck CreateFullDeck()
         {
             Deck deck = new Deck();
