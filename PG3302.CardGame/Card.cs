@@ -13,7 +13,6 @@ namespace PG3302.CardGame
             Spades,
             Diamonds,
             Clubs,
-            Joker
         }
 
         //Create ranks
@@ -42,5 +41,7 @@ namespace PG3302.CardGame
             suit = iSuit;
             rank = iRank;
         }
+
+
     }
 }
