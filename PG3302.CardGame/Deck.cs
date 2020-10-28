@@ -21,13 +21,24 @@ namespace PG3302.CardGame
         public static Deck CreateFullDeck()
         {
             Deck deck = new Deck();
+
+            /*
             for (int suitIndex = 0; suitIndex < 4; suitIndex++)
             {
                 for (int cardNumberIndex = 0; cardNumberIndex < 13; cardNumberIndex++)
                 {
-                    deck.Cards.Add(new Card((CardNumber)cardNumberIndex, (Suit)suitIndex));
+                    deck.Cards.Add(new Card((Rank)cardNumberIndex, (Suit)suitIndex));
+                }
+            }*/
+
+            foreach (Suit cardSuit in Enum.GetValues(typeof(Suit)))
+            {
+                foreach (Rank cardRank in Enum.GetValues(typeof(Rank)))
+                {
+                    deck.Cards.Add(new Card(cardRank, cardSuit));
                 }
             }
+
             return deck;
         }
 

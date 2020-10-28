@@ -6,17 +6,17 @@ namespace PG3302.CardGame
 {
     public class Card
     {
-        public CardNumber Number { get; private set; }
+        public Rank Rank { get; private set; }
         public Suit Suit { get; private set; }
 
-        public Card(CardNumber number, Suit suit)
+        public Card(Rank rank, Suit suit)
         {
-            Number = number;
+            Rank = rank;
             Suit = suit;
         }
     }
 
-    public enum CardNumber
+    public enum Rank
     {
         Ace,
         Two,

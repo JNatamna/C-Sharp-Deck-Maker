@@ -13,7 +13,7 @@ namespace PG3302.CardGame
             for (int i = 0; i < deck1.Cards.Count; i++)
             {
                 int y = i+1;
-                Console.WriteLine("Amount is: {0}, Card type is: {1}, Card number is: {2}", y, deck1.Cards[i].Suit, deck1.Cards[i].Number);
+                Console.WriteLine("Amount is: {0}, Card type is: {1}, Card number is: {2}", y, deck1.Cards[i].Suit, deck1.Cards[i].Rank);
             }
         }
     }
