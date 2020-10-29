@@ -1,0 +1,13 @@
+C:\Users\Markus Rogne\Documents\Skole\Software Design\CardGameV3\bin\Debug\netcoreapp3.1\CardGameV3.exe
+C:\Users\Markus Rogne\Documents\Skole\Software Design\CardGameV3\bin\Debug\netcoreapp3.1\CardGameV3.deps.json
+C:\Users\Markus Rogne\Documents\Skole\Software Design\CardGameV3\bin\Debug\netcoreapp3.1\CardGameV3.runtimeconfig.json
+C:\Users\Markus Rogne\Documents\Skole\Software Design\CardGameV3\bin\Debug\netcoreapp3.1\CardGameV3.runtimeconfig.dev.json
+C:\Users\Markus Rogne\Documents\Skole\Software Design\CardGameV3\bin\Debug\netcoreapp3.1\CardGameV3.dll
+C:\Users\Markus Rogne\Documents\Skole\Software Design\CardGameV3\bin\Debug\netcoreapp3.1\CardGameV3.pdb
+C:\Users\Markus Rogne\Documents\Skole\Software Design\CardGameV3\obj\Debug\netcoreapp3.1\CardGameV3.csprojAssemblyReference.cache
+C:\Users\Markus Rogne\Documents\Skole\Software Design\CardGameV3\obj\Debug\netcoreapp3.1\CardGameV3.AssemblyInfoInputs.cache
+C:\Users\Markus Rogne\Documents\Skole\Software Design\CardGameV3\obj\Debug\netcoreapp3.1\CardGameV3.AssemblyInfo.cs
+C:\Users\Markus Rogne\Documents\Skole\Software Design\CardGameV3\obj\Debug\netcoreapp3.1\CardGameV3.csproj.CoreCompileInputs.cache
+C:\Users\Markus Rogne\Documents\Skole\Software Design\CardGameV3\obj\Debug\netcoreapp3.1\CardGameV3.dll
+C:\Users\Markus Rogne\Documents\Skole\Software Design\CardGameV3\obj\Debug\netcoreapp3.1\CardGameV3.pdb
+C:\Users\Markus Rogne\Documents\Skole\Software Design\CardGameV3\obj\Debug\netcoreapp3.1\CardGameV3.genruntimeconfig.cache
