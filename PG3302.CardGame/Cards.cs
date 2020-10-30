@@ -15,7 +15,6 @@ namespace PG3302.CardGame
             Suit = suit;
         }
     }
-
     public enum Rank
     {
         Ace,
@@ -32,6 +31,7 @@ namespace PG3302.CardGame
         Queen,
         King
     }
+
     public enum Suit
     {
         Clubs,

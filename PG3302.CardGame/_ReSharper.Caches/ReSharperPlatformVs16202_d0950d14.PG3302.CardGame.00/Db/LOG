@@ -1,0 +1,164 @@
+2020/10/30-22:49:33.804 7f94 Delete type=3 #1
+2020/10/30-22:49:42.086 4e6c Level-0 table #5: started
+2020/10/30-22:49:42.686 4e6c Level-0 table #5: 4462826 bytes OK
+2020/10/30-22:49:42.778 4e6c Delete type=0 #3
+2020/10/30-22:49:43.010 4e6c Level-0 table #7: started
+2020/10/30-22:49:43.401 4e6c Level-0 table #7: 4090235 bytes OK
+2020/10/30-22:49:43.464 4e6c Delete type=0 #4
+2020/10/30-22:49:43.689 4e6c Level-0 table #9: started
+2020/10/30-22:49:44.085 4e6c Level-0 table #9: 3922109 bytes OK
+2020/10/30-22:49:44.182 4e6c Delete type=0 #6
+2020/10/30-22:49:44.409 4e6c Level-0 table #11: started
+2020/10/30-22:49:44.769 4e6c Level-0 table #11: 4418361 bytes OK
+2020/10/30-22:49:44.813 4e6c Delete type=0 #8
+2020/10/30-22:49:45.036 4e6c Level-0 table #13: started
+2020/10/30-22:49:45.261 4e6c Level-0 table #13: 4227477 bytes OK
+2020/10/30-22:49:45.346 4e6c Delete type=0 #10
+2020/10/30-22:49:45.520 4e6c Level-0 table #15: started
+2020/10/30-22:49:45.766 4e6c Level-0 table #15: 3977723 bytes OK
+2020/10/30-22:49:45.861 4e6c Delete type=0 #12
+2020/10/30-22:49:45.862 4e6c Compacting 4@0 + 1@1 files
+2020/10/30-22:49:46.065 4e6c Level-0 table #18: started
+2020/10/30-22:49:46.488 4e6c Level-0 table #18: 3956512 bytes OK
+2020/10/30-22:49:46.570 4e6c Delete type=0 #14
+2020/10/30-22:49:47.112 4e6c Generated table #17: 5248 keys, 2164286 bytes
+2020/10/30-22:49:47.112 4e6c Level-0 table #20: started
+2020/10/30-22:49:47.380 4e6c Level-0 table #20: 3997991 bytes OK
+2020/10/30-22:49:47.470 4e6c Delete type=0 #16
+2020/10/30-22:49:47.949 4e6c Generated table #21: 4866 keys, 2153513 bytes
+2020/10/30-22:49:47.949 4e6c Level-0 table #23: started
+2020/10/30-22:49:48.093 4e6c Level-0 table #23: 3969444 bytes OK
+2020/10/30-22:49:48.177 4e6c Delete type=0 #19
+2020/10/30-22:49:48.755 4e6c Generated table #24: 4303 keys, 2161865 bytes
+2020/10/30-22:49:48.755 4e6c Level-0 table #26: started
+2020/10/30-22:49:49.075 4e6c Level-0 table #26: 3982196 bytes OK
+2020/10/30-22:49:49.186 4e6c Delete type=0 #22
+2020/10/30-22:49:49.946 4e6c Generated table #27: 4256 keys, 2169766 bytes
+2020/10/30-22:49:49.946 4e6c Level-0 table #29: started
+2020/10/30-22:49:50.385 4e6c Level-0 table #29: 3891615 bytes OK
+2020/10/30-22:49:50.493 4e6c Delete type=0 #25
+2020/10/30-22:49:51.129 4e6c Generated table #30: 3363 keys, 2165663 bytes
+2020/10/30-22:49:51.129 4e6c Level-0 table #32: started
+2020/10/30-22:49:51.286 4e6c Level-0 table #32: 4179800 bytes OK
+2020/10/30-22:49:51.395 4e6c Delete type=0 #28
+2020/10/30-22:49:51.732 4e6c Generated table #33: 3071 keys, 2177471 bytes
+2020/10/30-22:49:51.732 4e6c Level-0 table #35: started
+2020/10/30-22:49:51.910 4e6c Level-0 table #35: 3872918 bytes OK
+2020/10/30-22:49:52.007 4e6c Delete type=0 #31
+2020/10/30-22:49:52.379 4e6c Generated table #36: 3540 keys, 2154646 bytes
+2020/10/30-22:49:52.379 4e6c Level-0 table #38: started
+2020/10/30-22:49:52.545 4e6c Level-0 table #38: 3954930 bytes OK
+2020/10/30-22:49:52.642 4e6c Delete type=0 #34
+2020/10/30-22:49:52.893 4e6c Generated table #39: 2353 keys, 2165499 bytes
+2020/10/30-22:49:53.230 4e6c Generated table #40: 2323 keys, 2170075 bytes
+2020/10/30-22:49:53.649 4e6c Generated table #41: 1677 keys, 1083900 bytes
+2020/10/30-22:49:53.649 4e6c Compacted 4@0 + 1@1 files => 20566684 bytes
+2020/10/30-22:49:53.757 4e6c Delete type=2 #7
+2020/10/30-22:49:53.758 4e6c Delete type=2 #9
+2020/10/30-22:49:53.759 4e6c Delete type=2 #11
+2020/10/30-22:49:53.759 4e6c Delete type=2 #13
+2020/10/30-22:49:53.761 4e6c Delete type=2 #15
+2020/10/30-22:49:53.761 4e6c compacted to: files[ 8 10 1 0 0 0 0 ]
+2020/10/30-22:49:53.761 4e6c Compacting 8@0 + 10@1 files
+2020/10/30-22:49:53.984 4e6c Generated table #42: 5372 keys, 2165393 bytes
+2020/10/30-22:49:54.320 4e6c Generated table #43: 4874 keys, 2153791 bytes
+2020/10/30-22:49:54.777 4e6c Generated table #44: 4464 keys, 2161472 bytes
+2020/10/30-22:49:55.125 4e6c Generated table #45: 5166 keys, 2156723 bytes
+2020/10/30-22:49:55.426 4e6c Generated table #46: 4289 keys, 2166799 bytes
+2020/10/30-22:49:55.712 4e6c Generated table #47: 4639 keys, 2160336 bytes
+2020/10/30-22:49:56.180 4e6c Generated table #48: 5193 keys, 2159191 bytes
+2020/10/30-22:49:56.637 4e6c Generated table #49: 4141 keys, 2160629 bytes
+2020/10/30-22:49:57.117 4e6c Generated table #50: 3859 keys, 2169426 bytes
+2020/10/30-22:49:57.755 4e6c Generated table #51: 2546 keys, 2183592 bytes
+2020/10/30-22:49:58.084 4e6c Generated table #52: 3893 keys, 2151745 bytes
+2020/10/30-22:49:58.245 4e6c Generated table #53: 2738 keys, 2160748 bytes
+2020/10/30-22:49:58.451 4e6c Generated table #54: 2009 keys, 2168842 bytes
+2020/10/30-22:49:58.737 4e6c Generated table #55: 3182 keys, 2169453 bytes
+2020/10/30-22:49:58.892 4e6c Generated table #56: 2871 keys, 2167249 bytes
+2020/10/30-22:49:59.061 4e6c Generated table #57: 3490 keys, 2168912 bytes
+2020/10/30-22:49:59.256 4e6c Generated table #58: 2978 keys, 2164309 bytes
+2020/10/30-22:49:59.460 4e6c Generated table #59: 2907 keys, 2171493 bytes
+2020/10/30-22:49:59.601 4e6c Generated table #60: 3325 keys, 2162685 bytes
+2020/10/30-22:49:59.773 4e6c Generated table #61: 2836 keys, 2166327 bytes
+2020/10/30-22:50:00.240 4e6c Generated table #62: 2891 keys, 2173750 bytes
+2020/10/30-22:50:00.537 4e6c Generated table #63: 3347 keys, 2160650 bytes
+2020/10/30-22:50:00.997 4e6c Generated table #64: 3767 keys, 2159746 bytes
+2020/10/30-22:50:01.293 4e6c Generated table #65: 2772 keys, 2165313 bytes
+2020/10/30-22:50:01.473 4e6c Generated table #66: 563 keys, 157909 bytes
+2020/10/30-22:50:01.473 4e6c Compacted 8@0 + 10@1 files => 52106483 bytes
+2020/10/30-22:50:01.527 4e6c Delete type=2 #17
+2020/10/30-22:50:01.528 4e6c Delete type=2 #18
+2020/10/30-22:50:01.529 4e6c Delete type=2 #20
+2020/10/30-22:50:01.530 4e6c Delete type=2 #21
+2020/10/30-22:50:01.531 4e6c Delete type=2 #23
+2020/10/30-22:50:01.531 4e6c Delete type=2 #24
+2020/10/30-22:50:01.532 4e6c Delete type=2 #26
+2020/10/30-22:50:01.533 4e6c Delete type=2 #27
+2020/10/30-22:50:01.534 4e6c Delete type=2 #29
+2020/10/30-22:50:01.534 4e6c Delete type=2 #30
+2020/10/30-22:50:01.535 4e6c Delete type=2 #32
+2020/10/30-22:50:01.536 4e6c Delete type=2 #33
+2020/10/30-22:50:01.537 4e6c Delete type=2 #35
+2020/10/30-22:50:01.538 4e6c Delete type=2 #36
+2020/10/30-22:50:01.538 4e6c Delete type=2 #38
+2020/10/30-22:50:01.539 4e6c Delete type=2 #39
+2020/10/30-22:50:01.540 4e6c Delete type=2 #40
+2020/10/30-22:50:01.540 4e6c Delete type=2 #41
+2020/10/30-22:50:01.541 4e6c compacted to: files[ 0 25 1 0 0 0 0 ]
+2020/10/30-22:50:01.541 4e6c Expanding@1 1+1 to 25+1
+2020/10/30-22:50:01.541 4e6c Compacting 25@1 + 1@2 files
+2020/10/30-22:50:02.448 4e6c Generated table #67: 4792 keys, 2181525 bytes
+2020/10/30-22:50:02.752 4e6c Generated table #68: 5072 keys, 2162866 bytes
+2020/10/30-22:50:03.022 4e6c Generated table #69: 4099 keys, 2158871 bytes
+2020/10/30-22:50:03.333 4e6c Generated table #70: 4748 keys, 2160371 bytes
+2020/10/30-22:50:03.525 4e6c Generated table #71: 5110 keys, 2157706 bytes
+2020/10/30-22:50:03.849 4e6c Generated table #72: 4093 keys, 2176704 bytes
+2020/10/30-22:50:04.224 4e6c Generated table #73: 5027 keys, 2154243 bytes
+2020/10/30-22:50:04.474 4e6c Generated table #74: 5210 keys, 2154915 bytes
+2020/10/30-22:50:04.703 4e6c Generated table #75: 3322 keys, 2195204 bytes
+2020/10/30-22:50:04.882 4e6c Generated table #76: 2321 keys, 2204101 bytes
+2020/10/30-22:50:05.136 4e6c Generated table #77: 3927 keys, 2165872 bytes
+2020/10/30-22:50:05.391 4e6c Generated table #78: 2615 keys, 2182388 bytes
+2020/10/30-22:50:05.786 4e6c Generated table #79: 3842 keys, 2150740 bytes
+2020/10/30-22:50:06.393 4e6c Generated table #80: 2698 keys, 2163416 bytes
+2020/10/30-22:50:06.561 4e6c Generated table #81: 2027 keys, 2168793 bytes
+2020/10/30-22:50:06.839 4e6c Generated table #82: 3167 keys, 2168532 bytes
+2020/10/30-22:50:07.030 4e6c Generated table #83: 2863 keys, 2166159 bytes
+2020/10/30-22:50:07.210 4e6c Generated table #84: 3528 keys, 2164956 bytes
+2020/10/30-22:50:07.557 4e6c Generated table #85: 2933 keys, 2165742 bytes
+2020/10/30-22:50:07.797 4e6c Generated table #86: 2897 keys, 2171683 bytes
+2020/10/30-22:50:08.086 4e6c Generated table #87: 3332 keys, 2161520 bytes
+2020/10/30-22:50:08.316 4e6c Generated table #88: 2901 keys, 2163915 bytes
+2020/10/30-22:50:08.570 4e6c Generated table #89: 2912 keys, 2170961 bytes
+2020/10/30-22:50:08.720 4e6c Generated table #90: 3347 keys, 2157921 bytes
+2020/10/30-22:50:08.907 4e6c Generated table #91: 3690 keys, 2159269 bytes
+2020/10/30-22:50:09.133 4e6c Generated table #92: 2697 keys, 2220655 bytes
+2020/10/30-22:50:09.265 4e6c Generated table #93: 586 keys, 146219 bytes
+2020/10/30-22:50:09.265 4e6c Compacted 25@1 + 1@2 files => 56555247 bytes
+2020/10/30-22:50:09.374 4e6c Delete type=2 #5
+2020/10/30-22:50:09.376 4e6c Delete type=2 #42
+2020/10/30-22:50:09.377 4e6c Delete type=2 #43
+2020/10/30-22:50:09.378 4e6c Delete type=2 #44
+2020/10/30-22:50:09.379 4e6c Delete type=2 #45
+2020/10/30-22:50:09.380 4e6c Delete type=2 #46
+2020/10/30-22:50:09.381 4e6c Delete type=2 #47
+2020/10/30-22:50:09.382 4e6c Delete type=2 #48
+2020/10/30-22:50:09.383 4e6c Delete type=2 #49
+2020/10/30-22:50:09.384 4e6c Delete type=2 #50
+2020/10/30-22:50:09.384 4e6c Delete type=2 #51
+2020/10/30-22:50:09.385 4e6c Delete type=2 #52
+2020/10/30-22:50:09.386 4e6c Delete type=2 #53
+2020/10/30-22:50:09.388 4e6c Delete type=2 #54
+2020/10/30-22:50:09.390 4e6c Delete type=2 #55
+2020/10/30-22:50:09.391 4e6c Delete type=2 #56
+2020/10/30-22:50:09.393 4e6c Delete type=2 #57
+2020/10/30-22:50:09.394 4e6c Delete type=2 #58
+2020/10/30-22:50:09.395 4e6c Delete type=2 #59
+2020/10/30-22:50:09.396 4e6c Delete type=2 #60
+2020/10/30-22:50:09.397 4e6c Delete type=2 #61
+2020/10/30-22:50:09.398 4e6c Delete type=2 #62
+2020/10/30-22:50:09.398 4e6c Delete type=2 #63
+2020/10/30-22:50:09.399 4e6c Delete type=2 #64
+2020/10/30-22:50:09.399 4e6c Delete type=2 #65
+2020/10/30-22:50:09.400 4e6c Delete type=2 #66
+2020/10/30-22:50:09.400 4e6c compacted to: files[ 0 0 27 0 0 0 0 ]
